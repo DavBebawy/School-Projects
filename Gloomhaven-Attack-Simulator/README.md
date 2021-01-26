@@ -42,4 +42,5 @@ Each attack has a base damage. Cards like +1 and 2x simply add to or multiply th
 
 ## Run in GitPod
 You can also run Gloomhaven Attack Simulator in Gitpod, a free online dev environment for GitHub:
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DavBebawy/School-Project/Gloomhaven-Attack-Simulator)

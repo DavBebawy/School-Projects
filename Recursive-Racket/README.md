@@ -1,4 +1,4 @@
-#  Recursive Racket
+# Recursive Racket
 
 A few basic Racket functions operating recursively on lists and sets.
 
@@ -13,4 +13,5 @@ A few basic Racket functions operating recursively on lists and sets.
 
 ## Run in GitPod
 You can also run Recursive Racket in Gitpod, a free online dev environment for GitHub:
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DavBebawy/School-Project/RecursiveRacket)

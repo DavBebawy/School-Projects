@@ -1,6 +1,6 @@
 # Ruby Pair
 
-Pair is a Racket class that mimics the cons box (a.k.a dotted pair) in Racket
+Pair is a Racket class that mimics the cons box (a.k.a dotted pair) in Racket.
 
 ## Functions:
 - `car` returns the first element
@@ -13,4 +13,5 @@ Pair is a Racket class that mimics the cons box (a.k.a dotted pair) in Racket
 
 ## Run in GitPod
 You can also run Ruby Pair in Gitpod, a free online dev environment for GitHub:
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DavBebawy/School-Project/Ruby-Pair)

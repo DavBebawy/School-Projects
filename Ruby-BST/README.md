@@ -15,4 +15,5 @@ Binary Search Tree class with a few basic functions.
 
 ## Run in GitPod
 You can also run Ruby BST in Gitpod, a free online dev environment for GitHub:
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DavBebawy/School-Project/Ruby-BST)

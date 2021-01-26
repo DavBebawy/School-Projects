@@ -11,4 +11,5 @@ A simple single-player game of BlackJack vs the computer. The game displays a we
 
 ## Run in GitPod
 You can also run BlackJack in Gitpod, a free online dev environment for GitHub:
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DavBebawy/School-Project/BlackJack)
