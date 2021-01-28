@@ -5,7 +5,7 @@ This is a repository that contains many of the code projects I worked on for uni
 ## AI Block Sorting
 
 A C++ program that reads the start and end states, analyzes and reorganize the blocks in as little moves as possible.<br>
-[Jump to the code](<./AI-BlockSorting>)
+[Jump to the code](<./AI-Block-Sorting>)
 
 ##  BlackJack
 
