@@ -2,6 +2,11 @@
 
 This is a repository that contains many of the code projects I worked on for university courses. 
 
+## AI Block Sorting
+
+A C++ program that reads the start and end states, analyzes and reorganize the blocks in as little moves as possible.<br>
+[Jump to the code](<./AI-BlockSorting>)
+
 ##  BlackJack
 
 A simple single-player game of BlackJack, written in Racket.<br>
